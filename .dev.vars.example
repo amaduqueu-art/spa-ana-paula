@@ -1,0 +1,8 @@
+# Variáveis para `npm run preview` (Wrangler/OpenNext local).
+# Copie para .dev.vars e preencha. NÃO commitar .dev.vars.
+
+DATABASE_URL="postgresql://usuario:senha@ep-xxxx-pooler.regiao.aws.neon.tech/neondb?sslmode=require"
+GEMINI_API_KEY=""
+JWT_SECRET=""
+EMAIL_USER=""
+EMAIL_PASS=""
