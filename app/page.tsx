@@ -91,7 +91,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center gap-4 flex-wrap">
             <a 
-              href="https://wa.me/5581900000000?text=Olá! Gostaria de agendar uma consulta no SPA Ana Paula." 
+              href="https://wa.me/5581985678757?text=Olá! Gostaria de agendar uma consulta no SPA Ana Paula." 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-rose-500 hover:bg-rose-600 text-white px-8 py-3 rounded-full text-lg font-semibold shadow-md transition-all hover:scale-105 inline-block"
